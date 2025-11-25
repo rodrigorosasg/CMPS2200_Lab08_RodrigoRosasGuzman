@@ -2,8 +2,7 @@
 
 ## Answers
 
-**Name:**_________________________
-**Name:**_________________________
+**Name:**Rodrigo Rosas Guzman
 
 
 Place all written answers from `recitation-08.md` here for easier grading.
@@ -11,6 +10,8 @@ Place all written answers from `recitation-08.md` here for easier grading.
 
 
 - **1b)**
+W (V+E)logV)
+S O((V+E)logV)
 
 
 
